@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+</style>
+<g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="265.8079" y1="94.7272" x2="580.8079" y2="532.7272">
+				<stop  offset="0" style="stop-color:#F1F1F1"/>
+				<stop  offset="0.7963" style="stop-color:#A1A1A1"/>
+			</linearGradient>
+			<polygon class="st0" points="265.2,232 400,317.3 400,143.2 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="49.7515" y1="250.1102" x2="364.7515" y2="688.1102">
+				<stop  offset="0" style="stop-color:#F1F1F1"/>
+				<stop  offset="0.7963" style="stop-color:#A1A1A1"/>
+			</linearGradient>
+			<polygon class="st1" points="0,143.2 0,317.3 134.8,232 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="214.5434" y1="131.5955" x2="529.5433" y2="569.5955">
+				<stop  offset="0" style="stop-color:#F1F1F1"/>
+				<stop  offset="0.7963" style="stop-color:#A1A1A1"/>
+			</linearGradient>
+			<path class="st2" d="M375,92.5H25c-12.5,0-22.3,9.3-24.2,21.3L200,245l199.2-131.3C397.3,101.8,387.5,92.5,375,92.5z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="101.9742" y1="212.5528" x2="416.9742" y2="650.5528">
+				<stop  offset="0" style="stop-color:#F1F1F1"/>
+				<stop  offset="0.7963" style="stop-color:#A1A1A1"/>
+			</linearGradient>
+			<path class="st3" d="M242.3,247.2l-35.4,23.3c-2.1,1.4-4.5,2-6.9,2s-4.8-0.7-6.9-2l-35.4-23.4l-157,99.3
+				c2,11.9,11.8,21.1,24.2,21.1h350c12.4,0,22.3-9.2,24.2-21.1L242.3,247.2z"/>
+		</g>
+	</g>
+</g>
+</svg>
